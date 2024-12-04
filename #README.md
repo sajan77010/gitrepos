@@ -1,1 +1,2 @@
-# gitthis is a local repos
+# gitthis is a local repos 
+this is some programmer
